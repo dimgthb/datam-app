@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Lia Kim",
+      "email": "lia.kim@gmail.co.kr",
+      "program": "Data Science",
+      "country": "Japan"
+    },
+    {
+      "id": 2,
+      "name": "Beidu Chao",
+      "email": "beido.chao@gmail.co.jp",
+      "program": "Digital Marketing",
+      "country": "Japan"
+    },
+    {
+      "id": 3,
+      "name": "Seigou",
+      "email": "Seigou@gmail.co.kr",
+      "program": "Data Science",
+      "country": "Korea"
+    },
+    {
+      "id": 5,
+      "name": "Tiara Lauren",
+      "email": "tiara_l@gmail.com",
+      "program": "Fullstack Web Development",
+      "country": "USA"
+    },
+    {
+      "name": "Alex Espargo",
+      "email": "alexes@gmail.com",
+      "program": "Fullstack Web Development",
+      "country": "Rusia",
+      "id": 6
+    },
+    {
+      "name": "Meepo",
+      "email": "meepo@yahoo.com",
+      "program": "UI/UX Designer",
+      "country": "USA",
+      "id": 7
+    },
+    {
+      "name": "Park Ji Sung",
+      "email": "parkji@google.com",
+      "program": "Digital Marketing",
+      "country": "Korea",
+      "id": 8
+    },
+    {
+      "name": "Darwin Nunez",
+      "email": "darnuz@gmail.com",
+      "program": "Digital Marketing",
+      "country": "USA",
+      "id": 9
+    }
+  ],
+  "members": [
+    {
+      "username": "admin",
+      "email": "assdb",
+      "password": "",
+      "id": 7
+    },
+    {
+      "username": "dimaspra",
+      "email": "dimas.bowo@yahoo.com",
+      "password": "qwe",
+      "id": 8
+    },
+    {
+      "username": "admin",
+      "email": "admin1@gmail",
+      "password": "admin123",
+      "id": 9
+    },
+    {
+      "username": "admin",
+      "email": "admin2@gmail.com",
+      "password": "aku",
+      "id": 10
+    },
+    {
+      "username": "admin",
+      "email": "admin3@gmail.com",
+      "password": "akum",
+      "id": 11
+    }
+  ]
+}
